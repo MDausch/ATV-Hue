@@ -1,0 +1,11 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.UIKit",
+			"com.apple.HeadBoard"
+		);
+		Executables = (
+			HeadBoard,
+		);
+	};
+}

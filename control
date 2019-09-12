@@ -1,0 +1,9 @@
+Package: ch.mdaus.atvhue
+Name: ATVHue
+Depends: 
+Version: 0.0.1
+Architecture: darwin-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
